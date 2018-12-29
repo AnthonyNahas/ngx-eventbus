@@ -1,0 +1,44 @@
+{
+  "generator-ngx-library": {
+    "version": "6.2.1",
+    "authorName": "Anthony Nahas",
+    "authorEmail": "anthony.na@hotmail.de",
+    "githubUsername": "anthonynahas",
+    "githubRepoName": "ngx-eventbus",
+    "projectName": "ngx-eventbus",
+    "projectVersion": "0.0.1",
+    "projectDescription": "ngx-eventbus is an angular open source library that simplifies the communication between angular directives and components - reuse the events instead of duplicating the code <3 - Angular V7 supported",
+    "projectKeywords": [
+      "ngx",
+      "open source",
+      "angular",
+      "library",
+      "eventbus",
+      "reactive",
+      "subscriptions",
+      "events",
+      "emitter"
+    ],
+    "ngVersion": "6.0.0",
+    "ngModules": [
+      "core",
+      "common"
+    ],
+    "otherDependencies": [
+      "rxjs"
+    ],
+    "additionalPackageFiles": [],
+    "dependenciesRange": "^",
+    "ngPrefix": "Ngx",
+    "testingFramework": "jest",
+    "useGreenkeeper": true,
+    "useCompodoc": true,
+    "enforceNgGitCommitMsg": true,
+    "exclusions": [
+      "config/karma.conf.js",
+      "config/webpack.test.js",
+      "config/karma-test-shim.js"
+    ],
+    "deleteExclusions": []
+  }
+}
