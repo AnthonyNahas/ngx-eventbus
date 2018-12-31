@@ -134,7 +134,10 @@
       "codelyzer",
       "@angular/animations",
       "rxjs",
-      "@types/jasmine"
+      "@types/jasmine",
+      "gulp-inline-ng2-template",
+      "conventional-github-releaser",
+      "rollup-plugin-uglify"
     ]
   },
   "commitplease": {
