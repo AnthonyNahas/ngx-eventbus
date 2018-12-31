@@ -53,6 +53,7 @@
     "ansi-colors": "3.2.3",
     "autoprefixer": "9.4.3",
     "awesome-typescript-loader": "5.0.0",
+    "babel-jest": "^23.6.0",
     "codelyzer": "4.2.1",
     "commitplease": "3.2.0",
     "conventional-github-releaser": "2.0.2",
